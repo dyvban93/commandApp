@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="cmd_btn">Commander</string>
+    <string name="qte">Quantite</string>
+    <string name="option">Supplement</string>
+    <string name="nom_edit">Nom</string>
+    <string name="mayo" translatable="false">Mayonnaise</string>
+    <string name="pain">Pain</string>
+    <string name="remerciements">Merci !!!</string>
+    <string name="resumer" translatable="false">Nom: %s</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="cmd_btn">Order</string>
+    <string name="qte">Quantity</string>
+    <string name="option">Options</string>
+    <string name="nom_edit">Name</string>
+    <string name="pain">Bread</string>
+    <string name="remerciements">Thank !!!</string>
+</resources>
